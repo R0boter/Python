@@ -1,0 +1,6 @@
+google youtube daata v3 API
+AIzaSyC6qlqmHyJ47FgCI0fYu-_3grGSPGn94G8
+
+https://www.googleapis.com/youtube/v3/videos?part=snippet&id=ptCck7t3kog&key=AIzaSyC6qlqmHyJ47FgCI0fYu-_3grGSPGn94G8
+https://www.googleapis.com/youtube/v3/playlists?part=id&maxResults=50&channelId=UCXB8_VeKl5FaHryoD_BZ4MQ&key=AIzaSyC6qlqmHyJ47FgCI0fYu-_3grGSPGn94G8
+https://www.googleapis.com/youtube/v3/playlistItems?part=snippet%2CcontentDetails&maxResults=50&playlistId=UUpRmvjdu3ixew5ahydZ67uA&key=AIzaSyC6qlqmHyJ47FgCI0fYu-_3grGSPGn94G8
