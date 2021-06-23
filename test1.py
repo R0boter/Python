@@ -12,7 +12,7 @@ logger = logging.getLogger('python-jedi')
 handler = logging.FileHandler(log_file, delay=1)
 handler.setLevel(logging.INFO)
 handler.setFormatter(
-    logging.Formatter('%(asctime)s [%(levelname)s][%(module)s] %(message)s'))
+logging.Formatter('%(asctime)s [%(levelname)s][%(module)s] %(message)s'))
 logger.addHandler(handler)
 
 

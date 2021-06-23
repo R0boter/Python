@@ -1,0 +1,169 @@
+dfqp.com
+dfqp88.com
+10180.cc
+bucket00010.oss-cn-shenzhen.aliyuncs.com:443
+store1.hispace.hicloud.com:443
+入口
+GET http://dafa.wladdress.com:9947/dafa.json HTTP/1.1			cdn获取地址
+/manual/
+
+
+http://39.101.208.196:9947/dafa.json
+39.101.208.196	39.101.212.250	47.113.188.78	47.113.221.16	47.52.144.54	47.241.106.245	47.241.79.24
+
+
+
+GET http://dafa.zvnykph.com:9947/dafa.json HTTP/1.1				dead
+GET http://a-dafa.gznuojia.com:9020/WS/NewMoblieInterface.ashx?action=getgamelist&sign=28AA2C62DF0CF6973172BF2F413859E6&time=20201209211332 cdn获取游戏列表
+GET http://a-dafa.gznuojia.com:9030/kefu HTTP/1.1				cdn返回客服json
+GET http://a-dafa.gznuojia.com:84/WS/NewMoblieInterface.ashx?action=getrankingdata&time=20201209211526&sign=BD684274674C5836B1EC4C8CC19ABFD7&typeid=7   dead
+
+9030/9765/9898/9021
+
+115.231.230.72	59.56.19.119	103.95.221.252	103.219.29.126
+
+ a-dafa.gznuojia.com:9898/api/applogin/exclude/registerAccounts
+http://a-dafa.gznuojia.com:9898/api/applogin/exclude/registerAccounts
+http://120.25.251.233:9898/api/applogin/exclude/registerAccounts
+http://a-dafa.wanli6847.com:9898/api/applogin/exclude/registerAccounts
+47.107.148.101:9030/bindcode?phone=18897529223&id=0			#验证码
+
+a-dafa.wanli6847.com 真实IP:120.25.251.233		lg-a-dafa.wanli6847.com
+PORT      STATE  SERVICE
+a-dafa.wanli6847.com					#图片服务器
+84/tcp    closed ctf					#http_url --演示 http请求链接地址
+6001/tcp  open   X11:1
+6002/tcp  open   X11:2
+8080/tcp  closed http-proxy
+9003/tcp  open   unknown
+9020/tcp  open   tambora				#获取游戏列表
+9021/tcp  open   panagolin-ident		#:9021/user/api/getshareurl:/Pay/JFTAPP/Notify.aspx:/Notify/Alipay.aspx:/Mobile/RoomLink.aspx
+9030/tcp  open   unknown				/kefu:/zhifubaomin:/updateBankInfo:/updateBankInfo:/updateZfbInfo:/getBankInfo:/getZfbInfo:/ApplyDraw
+9765/tcp  open   unknown				#--dh界面调用的连接	:/api/game/app/pay/payModeList
+9898/tcp  open   monkeycom				#游戏交互数据
+9899/tcp  closed sctp-tunneling
+9999/tcp  open   abyss
+10518/tcp closed unknown
+10519/tcp open   unknown
+10520/tcp open   unknown
+10521/tcp open   unknown				#-@login_port --演示 登陆端口
+10522/tcp open   unknown				#--@friend_port -- 演示 好友端口
+10523/tcp open   unknown				#游戏端口
+10524/tcp open   unknown				#chatport
+10765/tcp open   unknown
+15650/tcp open   unknown
+
+
+http://81364573.tlusgkmwgo.com			#重要宾利落地页
+21/tcp    open  ftp
+80/tcp    open  http
+443/tcp   open  https
+888/tcp   open  accessbuilder
+3306/tcp  open  mysql
+3515/tcp  open  must-backplane
+3618/tcp  open  aairnet-1
+3721/tcp  open  xsync
+3824/tcp  open  acp-policy
+5555/tcp  open  freeciv
+7777/tcp  open  cbt
+9999/tcp  open  abyss
+51375/tcp open  unknown
+56565/tcp open  unknown
+
+https://0404044.com:8888/				#-- yl.NoticeUrl
+http://111.67.193.218:8081/api/payPage.html?id=45552&key=fd0c6789172a6f4ca0b1d31a77c65d6a	#支付
+http://pay1.degaos.com/api/payproject/req?pf=dafa&fid=FR2020122821030755229640&uid=653372&cid=63665&amount=300&sign=5d5c600c94a6375509a15120e8d7e716&gid=817428&time=1609160587556
+https://my384a.ltrrica.cn/api/guest/pay/qrCodeSkip?isH5=false&orderNo=OQ202012282103277624
+http://8.135.103.133:9123/WebPay/y1huafeinew?t=YX2020122821043940681832&o=5000&ss=2E63185E6DBA829C932D4198B2B588EB&lk=P01065420201228090439566
+https://api.bao123.net/c2cApi/view/orderbuy?businessNo=f4a1f1a985044f03814a32555cae9cac&nonceStr=2020122821051257331166&timestamp=1609160712&sign=BDF32D5621BE18770224C04B0CC8C11B&payType=WECHAT&assetCode=USDT&money=500&state=60126&outOrderNo=sn20201228210512443&userId=39c3255a8b29323758a120d33b6e69f0
+https://api.bao123.net/c2cApi/view/orderbuy?businessNo=f4a1f1a985044f03814a32555cae9cac&nonceStr=2020122821053440244310&timestamp=1609160734&sign=F6DAA003CEE4A509CFFD0E433F1552FE&payType=WECHAT&assetCode=USDT&money=500&state=97055&outOrderNo=sn20201228210534734&userId=39c3255a8b29323758a120d33b6e69f0
+
+http://a-dafa.gznuojia.com
+9030/8080/9021
+
+download
+http://dafa-download.oss-cn-hangzhou.aliyuncs.com/Download
+itms-services://?action=download-manifest&url=https://dwz.cn/qW2rx5Vx
+
+kefu	
+https://vm.providesupport.com/viks6fkgx31axzjb655750zzx1		美国cloudfare cdn
+聊天
+CONNECT eea99.chatnow.mstatik.com:443 HTTP/1.1				no cdn	203.107.43.76
+https://eea99.chatnow.mstatik.com/widget/standalone.html?eid=e599e1b8c64ef3cc1e202ba3f33a30a2
+支付		cdn
+http://pay1.degaos.com/api/payproject/req?pf=dafa&fid=FR2020120920324364312828&uid=642148&cid=66378&amount=100&sign=e48d9de9381aa49b78f3e15208d921af&gid=804337&time=1607517163647
+
+支付		no cdn  106.55.27.20
+http://sp3wet.yzcjzs.cn/sk-pay/public/hfczPay/Pay.html?&expireTime=2020-12-09%2020:35:19&businessId=sn20201209203318865&payAmount=20.00
+
+
+
+POST http://a-dafa.gznuojia.com:9765/api/game/app/exclude/listSystemAppConfig HTTP/1.1
+Accept-Encoding: identity
+Content-Type: application/json
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 8.1.0; DUB-AL00 Build/HUAWEIDUB-AL00)
+Host: a-dafa.gznuojia.com:9765
+Connection: Keep-Alive
+Content-Length: 22
+
+{"projectSign":"dafa"}'
+
+POST http://a-dafa.gznuojia.com:9898/api/applogin/exclude/loginVisitor HTTP/1.1
+Accept-Encoding: identity
+Content-Type: application/json
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 8.1.0; DUB-AL00 Build/HUAWEIDUB-AL00)
+Host: a-dafa.gznuojia.com:9898
+Connection: Keep-Alive
+Content-Length: 236
+
+{"randomId":1607519723,"dwGameID":0,"cbDeviceType":17,"dwSource":100000,"strMachineID":"30365BDD87E907A664D1B7F90FA8C841","loginSign":"F40A6A7A6A443AA5DD2002616104F7BE","strMobilePhone":"0123456789","projectSign":"dafa","cbLogonMode":2}'
+
+
+POST http://a-dafa.gznuojia.com:9021/user/api/getuserinfoex HTTP/1.1
+Accept-Encoding: identity
+Content-Type: application/json
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 8.1.0; DUB-AL00 Build/HUAWEIDUB-AL00)
+Host: a-dafa.gznuojia.com:9021
+Connection: Keep-Alive
+Content-Length: 60
+
+{"userId":642148,"token":"F48856F52C8B4A6DBAE2F92A97345A06"}'
+
+POST http://a-dafa.gznuojia.com:9765/api/game/app/notice/listUserNotice HTTP/1.1
+Accept-Encoding: identity
+Content-Type: application/json
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 8.1.0; DUB-AL00 Build/HUAWEIDUB-AL00)
+Host: a-dafa.gznuojia.com:9765
+Connection: Keep-Alive
+Content-Length: 117
+
+{"randomId":1607519726,"noticeKind":1,"sign":"714E1E94507727B02A1150AB4EDB7799","userId":642148,"projectSign":"dafa"}'
+
+POST http://logs.amap.com/ws/log/upload?product=1&type=1&platform=1&channel=open&sign=bd94f2746f8b8e8c8a7e2d908792741f HTTP/1.1
+Connection: close
+Content-Length: 4627
+Content-Type: application/zip
+csid: 9a080aab2b2d4bae90aedfbc0c6a7347
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 8.1.0; DUB-AL00 Build/HUAWEIDUB-AL00)
+Host: logs.amap.com
+Accept-Encoding: gzip
+
+PK'
+
+POST http://a-dafa.gznuojia.com:9021/user/api/refreshgold HTTP/1.1
+Accept-Encoding: identity
+Content-Type: application/json
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 8.1.0; DUB-AL00 Build/HUAWEIDUB-AL00)
+Host: a-dafa.gznuojia.com:9021
+Connection: Keep-Alive
+Content-Length: 60
+
+{"userId":642148,"token":"F48856F52C8B4A6DBAE2F92A97345A06"}'
+
+key:RY_QP_MBCLIENT_!2016 			RY_QP_2016 
+
+LogonFrame:goJavaregisterAccountsWithInfo
+
+http://172.16.4.140/test_analysis.php
+{"address":"http:\/\/a-dafa.gznuojia.com:9020","iosurl":"0","encrypt":"XlGk9B1hAvaTgqt8pti4VtfiP3Mb6dQKLU\/FJpPBqk7guvBcXluBFPwRZUbX4kLPmq8CXkgFmQv0jFUVq5KbGUyDQYbYBAYglbPIkuyXYMjDIB9IeYzDDI8cX+QnZqLS+AGT+FXp1EzaQ90NdantlsQxHTleVfCxziC\/27UXeegwX5CbKW00YyKQhZ0mpLAjwWrrPvJrkebhKwOSwgjiBSRPJoyrCq1Vj\/074PJaPUUWujDOKKsLPftu4bDZ3A8X+pg+Mxntv6vuVaGK5QXAWqGAAqIav+IiL3v19XrLfdw3sYb+DmYwyqReT\/eft1w\/lLmfLHr448VZ9muht0Ek9iJIb\/VfWbpyyAxLMHKu5534rTnFCxIl89i+nUfyi9dkTrII2Pnr5P\/plQ0DfuSG8zg86TgcpZunoTmDJowSp6MVDxrVzsJOVg099rRr5CseGnmPQGQm9vclbOaF72punSXR0BUJeNtxGdad6qZm0RKHjoN3fgaXr468u++CBm53hPKapLdcf9x5U4YSisKt04aRR0KAxxqVrHM2iVazjqAzOlGQsgWY3epcby03XxlxI9jv0KFhct3x2AUuWHWEYntI5gEumhVRUTkOWvbh4A0vUGHi3SYlulU7UfznTIQpJxssOdFohgXOBqnQhsl0y\/rHdLB4ZME8OFFLiDxZJAyQ3IylswnuKbvQr9Z5a0UdTPURr3PDYByFYEnVN3bIWFvKqp+VhsIygAy2iF2hRrljP6BkudlyYCFKGctJJTl7ceW7YUgJrpVTabyAzE3IPiNmhaZ51KjUpzOGluH83pudXBTSE6MtUY6lPOWllSHTj6PGdtw7zxcqm6\/YNRCSFfVWjekexnlio4xSDpxICYkrWKbHxIEW3g4OhN7Y7JUZ7\/iNbrIBLwv66dPE+L1RNQFHL02S62HgQZe2E9Vu9LejhXfAx9xfjyAvTNq4SvkxsC1VSX3hkUGkTPK83r1nVfP7UVRHlZLS+k2UON7jKyod5ss+hN4N67GlBe6DKXGVR6SqNYpw683Wb8QoE6P7FRgV12A0l6+huFcsgsnJAc3rS+GEaLZrK1xsJIDICQ3q+YXD791GcH0U\/rQQAJDODjBhSW+WCTXA0i1\/NfuJ2Gph9rcckjMAlERuqMuKMGPByBf4bVRA5Ej+qKSFmA5GpjLCMlkvUWvyPvpQ1hMqi7LbbqnXzeb1wzSUVPNV8y8ExL9sPYJWwt8ex\/iBnwTgK52H84lAjoiOJobYXWXSlzSmUrws8xw0UQ4It7BY21So\/NDr3WgPHpmMofiKmCQUCsbmnhOTdmstgBVjRijEplZ2nuKnmuH4k\/vrcQxzD0CQ0doQsq0yugq82lO\/f\/hR4t70ce2dE2B448vTOdaw\/zv34UU1Wfxf70C5wOz2DqtFmwbM9PwnU+5M8iT9hsOJcupJUDfEawyc49v\/lMP1OwVgTVIjZvv0gc3iXyZMAjSHjsjR66AGQtC3wepZ0bOh++txW4HDWcoa1NTtDAxsK\/YGP2HNrnGzhzjXHXwwvHPdHF8pM30eiczfnbPQ4Necz9itoGeBm9MK8Fy5VRHRyC44URshxNDwc5K\/N4cg4ben\/YnwYaNBRDI2pA==","v":"20200622_204034_4","kefu":"https:\/\/chatlink.mstatik.com\/widget\/standalone.html?eid=89861","projectSign":"dafa"}
+
